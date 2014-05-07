@@ -1,5 +1,8 @@
 #!/usr/bin/python
 #
+# by d4rkcat <starthacking@startmail.com> @d4rkcat
+# 0xdeadcode.se
+#
 # Stackflow.py - Universal stack-based buffer overflow exploitation tool
 #  by @d4rkcat github.com/d4rkcat
 #
